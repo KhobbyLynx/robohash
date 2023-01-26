@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robohash/static/css/main.2f5d626c.css",
+    "main.js": "/robohash/static/js/main.37d67ff7.js",
+    "static/js/787.32032a02.chunk.js": "/robohash/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robohash/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robohash/index.html",
+    "main.2f5d626c.css.map": "/robohash/static/css/main.2f5d626c.css.map",
+    "main.37d67ff7.js.map": "/robohash/static/js/main.37d67ff7.js.map",
+    "787.32032a02.chunk.js.map": "/robohash/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5d626c.css",
+    "static/js/main.37d67ff7.js"
+  ]
+}
